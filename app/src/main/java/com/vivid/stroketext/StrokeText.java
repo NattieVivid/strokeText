@@ -38,6 +38,7 @@ public class StrokeText extends TextView {
         strokeWidth = wi;
         setPadding(wi, wi, wi, wi);
     }
+
     @Override
     public void onDraw(Canvas canvas)
     {

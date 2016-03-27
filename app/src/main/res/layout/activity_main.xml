@@ -12,9 +12,10 @@
     <com.vivid.stroketext.StrokeText android:text="Hello"
         android:textColor="@android:color/white"
         android:id="@+id/tvHello"
-    app:textStrokeWidth="3sp" app:textStrokeColor="@android:color/black"
-    android:textSize="30sp" android:layout_width="wrap_content"
-    android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+        app:textStrokeWidth="3sp"
+        app:textStrokeColor="@android:color/white"
+        android:textSize="30sp" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
         android:paddingRight="10dp" android:paddingLeft="10dp"/>
 
 </RelativeLayout>
